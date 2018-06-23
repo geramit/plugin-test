@@ -1,0 +1,8 @@
+Bundle-Name: PluginTest.cba
+Bundle-SymbolicName: PluginTest.cba
+Bundle-Version: 1.0.0
+CompositeBundle-ManifestVersion: 1
+Manifest-Version: 1.0
+CompositeBundle-Content: PluginTest;version="[1.0.0.qualifier,1.0.0.qua
+ lifier]"
+
